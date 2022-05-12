@@ -1,0 +1,25 @@
+{
+    "ailem": [
+      {
+        "id": 1,
+        "name": "serhat",
+        "surname": "varli",
+        "age": 33,
+        "city": "van"
+      },
+      {
+        "id": 2,
+        "name": "ecem",
+        "surname": "varli",
+        "age": 29,
+        "city": "İstanbul"
+      },
+      {
+        "id": 3,
+        "name": "Çınar Ege",
+        "surname": "varli",
+        "age": 1,
+        "city": "İstanbul"
+      }
+    ]
+  }
